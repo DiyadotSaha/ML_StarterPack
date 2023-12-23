@@ -1,2 +1,2 @@
 # to change language of repo from Jupiternotebook to Python
-    *.js linguist-language=Python
+    *.ipynb linguist-language=python
